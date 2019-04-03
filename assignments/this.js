@@ -53,5 +53,5 @@ santi.speak();
 
 hugo.speak.call(santi);
 santi.speak.apply(hugo);
-
+// I'm using the same code of example number 3
 
